@@ -1,68 +1,55 @@
-# Hi, I'm Meriem 👋
-
-### AI & Machine Learning enthusiast building projects that turn data into useful solutions
-
-I'm an engineering student passionate about **Artificial Intelligence, Machine Learning, and Data Science**.  
-I enjoy building practical projects, learning by doing, and exploring how intelligent systems can solve real-world problems.
+<h1 align="center">Hi, I'm Meriem 👋</h1>
+<h3 align="center">AI & Machine Learning enthusiast building meaningful projects with data</h3>
 
 ---
 
 ## About me
 
-- Engineering student with a growing focus on **AI and ML**
-- Interested in **machine learning, deep learning, data analysis, and intelligent applications**
-- Currently building projects to strengthen my skills and create a solid portfolio on GitHub
-- Looking to grow through hands-on work, experimentation, and continuous learning
+I'm an engineering student passionate about **Artificial Intelligence, Machine Learning, and Data Science**.  
+I'm currently focused on building projects that help me grow technically and create a strong GitHub portfolio.
+
+I’m especially interested in:
+- Machine Learning
+- Deep Learning
+- Data Science
+- Model Interpretability
+- Real-world AI applications
 
 ---
 
 ## What I'm working on
 
-- Machine Learning projects with Python
-- Data analysis and model building
-- Exploring real-world AI applications
-- Building a strong GitHub portfolio project by project
-
----
-
-## Featured interests
-
-- Supervised Machine Learning
-- Deep Learning
-- Data Science
-- Model Interpretability
-- AI for real-world decision-making
+- Building AI and ML projects with Python
+- Improving my skills through hands-on practice
+- Exploring data-driven problem solving
+- Creating a portfolio of clean and useful GitHub repositories
 
 ---
 
 ## Skills
 
-**Languages & Tools**  
+### Languages & Tools
 Python • Git • GitHub • Jupyter Notebook • VS Code
 
-**AI / ML**  
-Machine Learning • Data Analysis • Model Training • Data Preprocessing • SHAP
+### AI / ML
+Machine Learning • Data Analysis • Data Preprocessing • Model Training • SHAP
 
-**Currently learning more about**  
+### Learning next
 Deep Learning • NLP • Computer Vision • MLOps
 
 ---
 
-## Goals for this GitHub
+## My goal
 
-- Share my AI and ML projects
-- Document my learning journey
-- Build useful and well-structured repositories
-- Create a portfolio that reflects my progress and skills
+To build a GitHub profile that reflects my growth in **AI and Machine Learning** through real projects, consistency, and continuous improvement.
 
 ---
 
 ## Connect with me
 
-- LinkedIn: [My LinkedIn](www.linkedin.com/in/meriem-el-abzaze-1812a533a)
-- Email: [My email](meriem.elabzaze@centrale-casablanca.ma)
+- LinkedIn: [My LinkedIn](https://linkedin.com/in/your-link)
+- Email: [My email](mailto:your@email.com)
 
 ---
 
-### Thanks for visiting my profile ✨
-I'm just getting started, and many more AI/ML projects are coming soon.
+⭐ More projects coming soon
