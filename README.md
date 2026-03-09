@@ -59,8 +59,8 @@ Deep Learning • NLP • Computer Vision • MLOps
 
 ## Connect with me
 
-- LinkedIn: [Your LinkedIn](www.linkedin.com/in/meriem-el-abzaze-1812a533a)
-- Email: [your email](meriem.elabzaze@centrale-casablanca.ma)
+- LinkedIn: [My LinkedIn](www.linkedin.com/in/meriem-el-abzaze-1812a533a)
+- Email: [My email](meriem.elabzaze@centrale-casablanca.ma)
 
 ---
 
