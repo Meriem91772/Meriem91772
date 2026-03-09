@@ -19,24 +19,24 @@ I'm an engineering student passionate about **Artificial Intelligence, Machine L
 I'm currently building projects that help me grow technically and create a strong and creative GitHub portfolio.
 
 I’m especially interested in:
-- 🤖 Machine Learning
-- 🧠 Deep Learning
-- 📊 Data Science
-- 🔍 Model Interpretability
-- 🌍 Real-world AI applications
+-  Machine Learning
+-  Deep Learning
+-  Data Science
+-  Model Interpretability
+-  Real-world AI applications
 
 ---
 
-## 💫 What I'm working on
+##  What I'm working on
 
-- 🐍 Building AI and ML projects with Python  
-- 📚 Improving my skills through hands-on practice  
-- 🧩 Exploring data-driven problem solving  
-- 💻 Creating a portfolio of clean and useful GitHub repositories  
+-  Building AI and ML projects with Python  
+-  Improving my skills through hands-on practice  
+-  Exploring data-driven problem solving  
+-  Creating a portfolio of clean and useful GitHub repositories  
 
 ---
 
-## 🛠️ Skills
+##  Skills
 
 ### Languages & Tools
 <p>
@@ -56,7 +56,7 @@ I’m especially interested in:
   <img src="https://img.shields.io/badge/SHAP-4361ee?style=for-the-badge" />
 </p>
 
-### 🌱 Learning next
+###  Learning next
 - Deep Learning  
 - NLP  
 - Computer Vision  
@@ -64,7 +64,7 @@ I’m especially interested in:
 
 ---
 
-## 🎯 My goal
+##  My goal
 
 To build a GitHub profile that reflects my growth in **AI and Machine Learning** through real projects, creativity, consistency, and continuous improvement.
 
