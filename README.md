@@ -2,7 +2,7 @@
 <h3 align="center">💜 Data & AI & Machine Learning enthusiast </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=D16BA5&center=true&vCenter=true&width=520&lines=AI+%26+Machine+Learning+Enthusiast;Future+ML+Engineer;Building+projects+with+Python+%F0%9F%90%8D;Learning+something+new+every+day+%F0%9F%8C%B8" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=D16BA5&center=true&vCenter=true&width=520&lines=Data+%26+Machine+Learning+Enthusiast;Future+Data+Engineer;Building+projects+with+Python+%F0%9F%90%8D;Learning+something+new+every+day+%F0%9F%8C%B8" alt="Typing SVG" />
 </p>
 
 <p align="center">
